@@ -29,8 +29,8 @@ SCL         --       SCL
 GND         --       GND
 
 # Arduino IDE
-To make sure the ESP8266 works with the arduino IDE: follow these instrcutions: (https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)
-
+To make sure the ESP8266 works with the arduino IDE, follow these instrcutions: (https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide)
+For the 3-axis acceleromenter, follow these instructions: (https://www.arduino.cc/reference/en/libraries/accelerometer_mma7660/)
 
 # Ableton Live
 Ableton Live can read incoming OSC messages using the OSC connection kit: (https://www.ableton.com/en/packs/connection-kit/)
