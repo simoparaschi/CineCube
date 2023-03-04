@@ -5,6 +5,8 @@ Project by Bureau Più: Nicoletta Mannella, Odin Shadmi, Robin Tepe & Simo Paras
 
 CineCube is a set of cubes placed inside the cinema hall that explore the topic of connectedness in the urban space of the cinema hall, by having the cinema audience collaboratively create music. Each cube is equipped with a sesnor that triggers a specific ‘channel’ of a song, i.e. an instrument. When moved at unison, all channels of a song will be played, creating thus collaboratively a final piece.
 
+Read case study here: https://www.simoparaschi.io/case-study/design-for-interaction-in-urban-places
+
 # Tools required:
 
 - 3-axis accelerometer | I used the [Grove 3-Axis Digital Accelerometer](https://wiki.seeedstudio.com/Grove-3-Axis_Digital_Accelerometer-1.5g/)
